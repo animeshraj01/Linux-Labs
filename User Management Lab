@@ -136,3 +136,7 @@ Task 1:	Write a Bash script that takes a username and a group as input
 - 
 Task 2:	Create the user, create the group if it does not exist, and add the user to the group
 Task 3:	Set a default password for the new user and notify the administrator by email
+
+
+
+
